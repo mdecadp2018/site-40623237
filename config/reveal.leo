@@ -24,10 +24,10 @@
 <v t="leo.20181001103423.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20181001103423.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181008100206.1" a="E"><vh>Week1 Content</vh>
+<v t="leo.20181008100206.1"><vh>Week1 Content</vh>
 <v t="leo.20181008100206.2"><vh>Content</vh></v>
 </v>
-<v t="leo.20181008100204.1" a="E"><vh>Week2 Content</vh>
+<v t="leo.20181008100204.1"><vh>Week2 Content</vh>
 <v t="leo.20181008100204.2"><vh>Content</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>Week3 Content</vh>
@@ -147,9 +147,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20180827201621.12"># Week3 Content
 
-* 領取作業
-* 修改動態網頁
-* 更新靜態網頁</t>
+* 中秋節放假</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;

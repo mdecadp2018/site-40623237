@@ -366,9 +366,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181008095802.2"># Week5 Content
 
-* 
-* 
-* 
+* 介紹連桿機構
+* 介紹模擬連桿運作程式
+
 
 </t>
 <t tx="leo.20181008100204.1">&lt;section data-markdown&gt;
@@ -411,7 +411,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181015091157.2"># Week6 Content
 
-* 中秋節放假
+* 更新Readme.md
+* 
 
 </t>
 </tnodes>

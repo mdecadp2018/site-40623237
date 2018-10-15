@@ -5,6 +5,8 @@ https://github.com/mdecadp2018/site-40623237
 
 分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
 
-設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
+分組網站: https://mdecadp2018.github.io/site-40623237/content/index.html
 
-cpgx 網站: https://cpgx.kmol.info
+網誌: https://mdecadp2018.github.io/site-40623237/blog/
+
+簡報: https://mdecadp2018.github.io/site-40623237/reveal/#/

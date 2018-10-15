@@ -39,6 +39,9 @@
 <v t="leo.20181008095802.1"><vh>Week5 Content</vh>
 <v t="leo.20181008095802.2"><vh>Content</vh></v>
 </v>
+<v t="leo.20181015091157.1" a="E"><vh>Week6 Content</vh>
+<v t="leo.20181015091157.2"><vh>Content</vh></v>
+</v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
@@ -147,7 +150,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20180827201621.12"># Week3 Content
 
-* 中秋節放假</t>
+* 中秋節放假
+
+</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -347,7 +352,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 新增Onshape帳號
 * 試用Onshape繪製圖形
-* 建立個人網誌及簡報</t>
+* 建立個人網誌及簡報
+
+</t>
 <t tx="leo.20181008095802.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -361,7 +368,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 
 * 
-* </t>
+* 
+
+</t>
 <t tx="leo.20181008100204.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -390,6 +399,20 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 認識動靜態網頁
 * 試改靜態網頁
 * 轉動態網頁測試
+</t>
+<t tx="leo.20181015091157.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015091157.2"># Week6 Content
+
+* 中秋節放假
+
 </t>
 </tnodes>
 </leo_file>

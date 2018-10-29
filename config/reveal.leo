@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20181001103423.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181001103423.1"><vh>封面投影片</vh>
 <v t="leo.20181001103423.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181008100206.1"><vh>Week1 Content</vh>
@@ -39,8 +39,14 @@
 <v t="leo.20181008095802.1"><vh>Week5 Content</vh>
 <v t="leo.20181008095802.2"><vh>Content</vh></v>
 </v>
-<v t="leo.20181015091157.1" a="E"><vh>Week6 Content</vh>
+<v t="leo.20181015091157.1"><vh>Week6 Content</vh>
 <v t="leo.20181015091157.2"><vh>Content</vh></v>
+</v>
+<v t="leo.20181022091911.1"><vh>Week7 Content</vh>
+<v t="leo.20181022091911.2"><vh>Content</vh></v>
+</v>
+<v t="leo.20181029091450.1" a="E"><vh>Week8 Content</vh>
+<v t="leo.20181029091450.2"><vh>Content</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -413,6 +419,38 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 * 更新Readme.md
 * 
+
+</t>
+<t tx="leo.20181022091911.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181022091911.2"># Week7 Content
+
+* 介紹連桿機構
+* 介紹模擬連桿運作程式
+
+
+</t>
+<t tx="leo.20181029091450.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029091450.2"># Week8 Content
+
+* 介紹連桿機構
+* 介紹模擬連桿運作程式
+
 
 </t>
 </tnodes>

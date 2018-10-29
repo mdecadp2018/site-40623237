@@ -39,10 +39,10 @@
 <v t="leo.20181008095802.1"><vh>Week5 Content</vh>
 <v t="leo.20181008095802.2"><vh>Content</vh></v>
 </v>
-<v t="leo.20181015091157.1"><vh>Week6 Content</vh>
+<v t="leo.20181015091157.1" a="E"><vh>Week6 Content</vh>
 <v t="leo.20181015091157.2"><vh>Content</vh></v>
 </v>
-<v t="leo.20181022091911.1"><vh>Week7 Content</vh>
+<v t="leo.20181022091911.1" a="E"><vh>Week7 Content</vh>
 <v t="leo.20181022091911.2"><vh>Content</vh></v>
 </v>
 <v t="leo.20181029091450.1" a="E"><vh>Week8 Content</vh>
@@ -418,7 +418,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20181015091157.2"># Week6 Content
 
 * 更新Readme.md
-* 
+
 
 </t>
 <t tx="leo.20181022091911.1">&lt;section data-markdown&gt;
@@ -432,8 +432,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181022091911.2"># Week7 Content
 
-* 介紹連桿機構
-* 介紹模擬連桿運作程式
+* 介紹近端fossil
+* 說明github無法登入原因
 
 
 </t>
@@ -448,8 +448,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181029091450.2"># Week8 Content
 
-* 介紹連桿機構
-* 介紹模擬連桿運作程式
+* 搞定網站、網誌及簡報內容
+* 找期末隊友
 
 
 </t>

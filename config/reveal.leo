@@ -24,29 +24,20 @@
 <v t="leo.20181001103423.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20181001103423.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181008100206.1" a="E"><vh>Week1 Content</vh>
+<v t="leo.20181008100206.1" a="E"><vh>目錄</vh>
 <v t="leo.20181008100206.2"><vh>Content</vh></v>
 </v>
-<v t="leo.20181008100204.1"><vh>Week2 Content</vh>
+<v t="leo.20181008100204.1" a="E"><vh>v-rep模擬(BobbleRob,Cleaning model)</vh>
 <v t="leo.20181008100204.2"><vh>Content</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>Week3 Content</vh>
+<v t="leo.20180827201621.11" a="E"><vh>手足球專題</vh>
 <v t="leo.20180827201621.12"><vh>Content</vh></v>
 </v>
-<v t="leo.20181001103447.1"><vh>Week4 Content</vh>
+<v t="leo.20181001103447.1" a="E"><vh>結語</vh>
 <v t="leo.20181001103447.2"><vh>Content</vh></v>
 </v>
 <v t="leo.20181008095802.1"><vh>Week5 Content</vh>
 <v t="leo.20181008095802.2"><vh>Content</vh></v>
-</v>
-<v t="leo.20181015091157.1" a="E"><vh>Week6 Content</vh>
-<v t="leo.20181015091157.2"><vh>Content</vh></v>
-</v>
-<v t="leo.20181022091911.1" a="E"><vh>Week7 Content</vh>
-<v t="leo.20181022091911.2"><vh>Content</vh></v>
-</v>
-<v t="leo.20181029091450.1" a="E"><vh>Week8 Content</vh>
-<v t="leo.20181029091450.2"><vh>Content</vh></v>
 </v>
 </v>
 </v>
@@ -143,7 +134,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20180827201621.12"># Week3 Content
+<t tx="leo.20180827201621.12"># 手足球專題
 
 * 中秋節放假
 
@@ -264,7 +255,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181001103447.2"># Week4 Content
+<t tx="leo.20181001103447.2"># 結語
 
 * 新增Onshape帳號
 * 試用Onshape繪製圖形
@@ -296,7 +287,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181008100204.2"># Week2 Content
+<t tx="leo.20181008100204.2"># v-rep模擬(BobbleRob,Cleaning model)
 
 * 更新github倉儲
 * 將修改的東西上傳至個人倉儲
@@ -310,58 +301,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181008100206.2"># Week1 Content
+<t tx="leo.20181008100206.2"># 目錄
 
-* 認識動靜態網頁
-* 試改靜態網頁
-* 轉動態網頁測試
-</t>
-<t tx="leo.20181015091157.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181015091157.2"># Week6 Content
-
-* 更新Readme.md
-
-
-</t>
-<t tx="leo.20181022091911.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181022091911.2"># Week7 Content
-
-* 介紹近端fossil
-* 說明github無法登入原因
-
-
-</t>
-<t tx="leo.20181029091450.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181029091450.2"># Week8 Content
-
-* 搞定網站、網誌及簡報內容
-* 找期末隊友
-
-
+* v-rep模擬(BobbleRob,Cleaning model)
+* 手足球專題
+* 結語
 </t>
 </tnodes>
 </leo_file>

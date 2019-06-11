@@ -34,7 +34,7 @@
 <v t="leo.20180827201621.12"><vh>Content</vh></v>
 </v>
 <v t="leo.20181001103447.1" a="E"><vh>結語</vh>
-<v t="leo.20181001103447.2"><vh>Content</vh></v>
+<v t="leo.20181001103447.2" a="M"><vh>Content</vh></v>
 </v>
 </v>
 </v>
@@ -135,6 +135,9 @@ vertical: body pane on the botton</t>
 
 ### 手足球專題則是分配至第三組，工作則是模擬手足球的v-rep，模擬的過程影片皆在我的youtube上
 *[foosball #1](https://www.youtube.com/watch?v=s4QrB9x4Opk),[foosball #2](https://www.youtube.com/watch?v=STbZ-JXHn6Y),[foosball #3](https://www.youtube.com/watch?v=0EpPW5PqwMw),[foosball #4](https://www.youtube.com/watch?v=fRgvsTG3-cE&amp;t=3079s),[foosball #5](https://www.youtube.com/watch?v=dAfIkHy6dQE)
+### 完成度最高則人vs人的模擬，至於AIvs人及AIvsAI實在是無概念，只能copy甲班的程式加以修改。
+* 程式部分皆在結語有附註
+
 
 
 
@@ -242,7 +245,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2019 協同產品設計 40623237-分組網誌](./../blog/index.html)
+[2019 協同產品設計 40623237-個人網誌](./../blog/index.html)
 
 
 </t>
@@ -257,9 +260,8 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181001103447.2">## 結語
 
-* 新增Onshape帳號
-* 試用Onshape繪製圖形
-* 建立個人網誌及簡報
+### 之前都不曾碰過v-rep，所以在這次手足球專題模擬上有很多困難，也只能邊看老師的tutorial來慢慢操作，只是程式方面真的不行，tutorial也都在講如何操作v-rep，程式方面基本上都沒甚麼提到，所以在模擬手足球部分嘗試了很久才弄出來。
+* V-REP模擬檔案 : [v-rep files](https://github.com/mdecadp2018/site-40623237/tree/gh-pages/v-rep%20files)
 
 </t>
 <t tx="leo.20181008100204.1">&lt;section data-markdown&gt;
@@ -277,6 +279,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 [Bubble tutorial](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm),[clean model tutorial](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
 * 過程因模擬時老師未要求所以無拍攝
 * 運作影片則發佈已在youtube上[BobbleRob](https://www.youtube.com/watch?v=Lk6DRuTQqLg),[Clean model](https://www.youtube.com/watch?v=fY7qMAqT-U8)
+* 程式部分皆在結語有附註
 </t>
 <t tx="leo.20181008100206.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;

@@ -133,7 +133,10 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20180827201621.12">## 手足球專題
 
-* 中秋節放假
+### 手足球專題則是分配至第三組，工作則是模擬手足球的v-rep，模擬的過程影片皆在我的youtube上
+*[foosball #1](https://www.youtube.com/watch?v=s4QrB9x4Opk),[foosball #2](https://www.youtube.com/watch?v=STbZ-JXHn6Y),[foosball #3](https://www.youtube.com/watch?v=0EpPW5PqwMw),[foosball #4](https://www.youtube.com/watch?v=fRgvsTG3-cE&amp;t=3079s),[foosball #5](https://www.youtube.com/watch?v=dAfIkHy6dQE)
+
+
 
 </t>
 <t tx="leo.20180827201621.2"></t>
@@ -268,7 +271,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181008100204.2">##v-rep模擬(BobbleRob,Clean model)
+<t tx="leo.20181008100204.2">## v-rep模擬(BobbleRob,Clean model)
 
 * 於上課時模擬實習任務二、三，但因時間上關係所以clean model tutorial 只有做出外型沒詳細讀完tutorial。
 [Bubble tutorial](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm),[clean model tutorial](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)

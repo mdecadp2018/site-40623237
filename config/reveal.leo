@@ -35,7 +35,6 @@
 </v>
 <v t="leo.20181001103447.1" a="E"><vh>結語</vh>
 <v t="leo.20181001103447.2"><vh>Content</vh></v>
-<v t="leo.20190611150257.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -132,7 +131,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 手足球專題
+<t tx="leo.20180827201621.12">## 手足球專題
 
 * 中秋節放假
 
@@ -253,7 +252,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181001103447.2"># 結語
+<t tx="leo.20181001103447.2">## 結語
 
 * 新增Onshape帳號
 * 試用Onshape繪製圖形
@@ -269,7 +268,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181008100204.2"># v-rep模擬(BobbleRob,Clean model)
+<t tx="leo.20181008100204.2">##v-rep模擬(BobbleRob,Clean model)
 
 * 於上課時模擬實習任務二、三，但因時間上關係所以clean model tutorial 只有做出外型沒詳細讀完tutorial。
 [Bubble tutorial](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm),[clean model tutorial](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
@@ -291,9 +290,5 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 手足球專題
 * 結語
 </t>
-<t tx="leo.20190611150257.1">@killcolor
-
-siteTitle:2019 40623237's website
-password:c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec</t>
 </tnodes>
 </leo_file>

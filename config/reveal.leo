@@ -271,10 +271,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181008100204.2"># v-rep模擬(BobbleRob,Clean model)
 
-於上課時模擬實習任務二、三，但因時間上關係所以clean model tutorial 只有做出外型沒詳細讀完tutorial。
+#於上課時模擬實習任務二、三，但因時間上關係所以clean model tutorial 只有做出外型沒詳細讀完tutorial。
 [Bubble tutorial](http://www.coppeliarobotics.com/helpFiles/en/bubbleRobTutorial.htm),[clean model tutorial](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
-過程因模擬時老師未要求所以無拍攝
-運作影片則發佈已在youtube上[BobbleRob](https://www.youtube.com/watch?v=fY7qMAqT-U8),[Clean model](https://www.youtube.com/watch?v=Lk6DRuTQqLg)
+#過程因模擬時老師未要求所以無拍攝
+#運作影片則發佈已在youtube上[BobbleRob](https://www.youtube.com/watch?v=Lk6DRuTQqLg),[Clean model](https://www.youtube.com/watch?v=fY7qMAqT-U8)
 </t>
 <t tx="leo.20181008100206.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;

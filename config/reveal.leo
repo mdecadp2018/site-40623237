@@ -133,9 +133,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20180827201621.12">## 手足球專題
 
-### 手足球專題則是分配至第三組，工作則是模擬手足球的v-rep，模擬的過程影片皆在我的youtube上
-*[foosball #1](https://www.youtube.com/watch?v=s4QrB9x4Opk),[foosball #2](https://www.youtube.com/watch?v=STbZ-JXHn6Y),[foosball #3](https://www.youtube.com/watch?v=0EpPW5PqwMw),[foosball #4](https://www.youtube.com/watch?v=fRgvsTG3-cE&amp;t=3079s),[foosball #5](https://www.youtube.com/watch?v=dAfIkHy6dQE)
-### 完成度最高則人vs人的模擬，至於AIvs人及AIvsAI實在是無概念，只能copy甲班的程式加以修改。
+* 手足球專題則是分配至第三組，工作則是模擬手足球的v-rep，模擬的過程影片皆在我的youtube上
+* [foosball #1](https://www.youtube.com/watch?v=s4QrB9x4Opk),[foosball #2](https://www.youtube.com/watch?v=STbZ-JXHn6Y),[foosball #3](https://www.youtube.com/watch?v=0EpPW5PqwMw),[foosball #4](https://www.youtube.com/watch?v=fRgvsTG3-cE&amp;t=3079s),[foosball #5](https://www.youtube.com/watch?v=dAfIkHy6dQE)
+* 完成度最高則人vs人的模擬，至於AIvs人及AIvsAI實在是無概念，只能copy甲班的程式加以修改。
 * 程式部分皆在結語有附註
 
 

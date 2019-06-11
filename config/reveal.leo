@@ -27,7 +27,7 @@
 <v t="leo.20181008100206.1" a="E"><vh>目錄</vh>
 <v t="leo.20181008100206.2"><vh>Content</vh></v>
 </v>
-<v t="leo.20181008100204.1" a="E"><vh>v-rep模擬(BobbleRob,Cleaning model)</vh>
+<v t="leo.20181008100204.1" a="E"><vh>v-rep模擬(BobbleRob,Clean model)</vh>
 <v t="leo.20181008100204.2"><vh>Content</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>手足球專題</vh>
@@ -35,9 +35,7 @@
 </v>
 <v t="leo.20181001103447.1" a="E"><vh>結語</vh>
 <v t="leo.20181001103447.2"><vh>Content</vh></v>
-</v>
-<v t="leo.20181008095802.1"><vh>Week5 Content</vh>
-<v t="leo.20181008095802.2"><vh>Content</vh></v>
+<v t="leo.20190611150257.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -262,22 +260,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 建立個人網誌及簡報
 
 </t>
-<t tx="leo.20181008095802.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181008095802.2"># Week5 Content
-
-* 介紹連桿機構
-* 介紹模擬連桿運作程式
-
-
-</t>
 <t tx="leo.20181008100204.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -287,10 +269,12 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181008100204.2"># v-rep模擬(BobbleRob,Cleaning model)
+<t tx="leo.20181008100204.2"># v-rep模擬(BobbleRob,Clean model)
 
-* 更新github倉儲
-* 將修改的東西上傳至個人倉儲
+於上課時模擬實習任務二、三，但因時間上關係所以clean model tutorial 只有做出外型沒詳細讀完tutorial。
+[Bubble tutorial](http://lab.kmol.info/),[clean model tutorial tutorial](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
+過程因模擬時老師未要求所以無拍攝
+運作影片則發佈已在youtube上[BobbleRob](https://www.youtube.com/watch?v=fY7qMAqT-U8),[Clean model](https://www.youtube.com/channel/UCaZ6u6BDCGu3O_pjNekOocA)
 </t>
 <t tx="leo.20181008100206.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -303,9 +287,13 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181008100206.2"># 目錄
 
-* v-rep模擬(BobbleRob,Cleaning model)
+* v-rep模擬(BobbleRob,Clean model)
 * 手足球專題
 * 結語
 </t>
+<t tx="leo.20190611150257.1">@killcolor
+
+siteTitle:2019 40623237's website
+password:c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec</t>
 </tnodes>
 </leo_file>

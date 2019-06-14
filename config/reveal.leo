@@ -134,7 +134,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.12">## 手足球專題
 
 * 手足球專題則是分配至第三組，工作則是模擬手足球的v-rep，模擬的過程影片皆在我的youtube上
-* [foosball #1](https://www.youtube.com/watch?v=s4QrB9x4Opk),[foosball #2](https://www.youtube.com/watch?v=STbZ-JXHn6Y),[foosball #3](https://www.youtube.com/watch?v=0EpPW5PqwMw),[foosball #4](https://www.youtube.com/watch?v=fRgvsTG3-cE&amp;t=3079s),[foosball #5](https://www.youtube.com/watch?v=dAfIkHy6dQE)
+* [foosball #1](https://www.youtube.com/watch?v=s4QrB9x4Opk),[foosball #2](https://www.youtube.com/watch?v=STbZ-JXHn6Y),[foosball #3](https://www.youtube.com/watch?v=0EpPW5PqwMw),[foosball #4](https://www.youtube.com/watch?v=fRgvsTG3-cE&amp;t=3079s),[foosball #5](https://www.youtube.com/watch?v=tCaB5VcAW8c&amp;t=7s),[foosball #6](https://www.youtube.com/watch?v=dAfIkHy6dQE&amp;t=2s),[foosball human v.s human](https://www.youtube.com/watch?v=oxf7Ok9Unbs)
 * 完成度最高則人vs人的模擬，至於AIvs人及AIvsAI實在是無概念，只能copy甲班的程式加以修改。
 * 程式部分皆在結語有附註
 
@@ -245,7 +245,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2019 協同產品設計 40623237-個人網誌](./../blog/index.html)
+[2019 協同產品設計-40623237期末報告影片](https://www.youtube.com/watch?v=cb4zrz2aPU4&amp;t=2s)
 
 
 </t>
